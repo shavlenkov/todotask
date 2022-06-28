@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.navbar-brand {
+    font-size: 40px;
+    font-family: 'Staatliches', cursive;
+}
+
+nav[role="navigation"] {
+    text-align: center;
+}
